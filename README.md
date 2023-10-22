@@ -27,5 +27,8 @@ INFORMACIÓN ADICIONAL
 ¿Cómo conectar el TFT Display 0.96″ ST7735 con Arduino Uno?
 Para utilizar con la placa de Arduino Uno las conexiones son las siguientes:
 
+![image](https://github.com/KLYCKIT/TFT-Display-LCD-1.3-SPI-HD-65K-Colores-ST7739/assets/83427440/0e22b49b-b5e4-4d08-b762-3439480aebb9)
+
+
 ![image](https://github.com/KLYCKIT/TFT-Display-LCD-1.3-SPI-HD-65K-Colores-ST7739/assets/83427440/82630243-333e-4cbe-a5a8-d157d40cd7f3)
 
